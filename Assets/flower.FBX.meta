@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: 380ed6eeedb4ee14da8fa271b68ab87f
+timeCreated: 1503070298
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 001xx66
+    100002: 001xx66 1
+    100004: a01
+    100006: a02
+    100008: a03
+    100010: a04
+    100012: a05
+    100014: a06
+    100016: a07
+    100018: a08
+    100020: a09
+    100022: a10
+    100024: ALL
+    100026: Box115
+    100028: Center01
+    100030: Center02
+    100032: Center03
+    100034: Cylinder86
+    100036: D
+    100038: D1
+    100040: D3
+    100042: D4
+    100044: D5
+    100046: D6
+    100048: D8
+    100050: E1
+    100052: E2
+    100054: E3
+    100056: F01
+    100058: F02
+    100060: F03
+    100062: F1
+    100064: //RootNode
+    100066: G
+    100068: G1
+    100070: G2
+    100072: G3
+    100074: Group001
+    100076: O
+    100078: O1
+    100080: O2
+    100082: O3
+    100084: Plane147
+    100086: R
+    100088: R1
+    100090: R2
+    100092: R3
+    100094: T
+    100096: T1
+    100098: T2
+    100100: T3
+    400000: 001xx66
+    400002: 001xx66 1
+    400004: a01
+    400006: a02
+    400008: a03
+    400010: a04
+    400012: a05
+    400014: a06
+    400016: a07
+    400018: a08
+    400020: a09
+    400022: a10
+    400024: ALL
+    400026: Box115
+    400028: Center01
+    400030: Center02
+    400032: Center03
+    400034: Cylinder86
+    400036: D
+    400038: D1
+    400040: D3
+    400042: D4
+    400044: D5
+    400046: D6
+    400048: D8
+    400050: E1
+    400052: E2
+    400054: E3
+    400056: F01
+    400058: F02
+    400060: F03
+    400062: F1
+    400064: //RootNode
+    400066: G
+    400068: G1
+    400070: G2
+    400072: G3
+    400074: Group001
+    400076: O
+    400078: O1
+    400080: O2
+    400082: O3
+    400084: Plane147
+    400086: R
+    400088: R1
+    400090: R2
+    400092: R3
+    400094: T
+    400096: T1
+    400098: T2
+    400100: T3
+    4300000: O
+    4300002: G
+    4300004: T
+    4300006: Plane147
+    4300008: F1
+    4300010: R
+    4300012: Box115
+    4300014: Cylinder86
+    7400000: Take 001
+    7400002: Take 002
+    7400004: asd
+    9500000: //RootNode
+    13700000: Box115
+    13700002: Cylinder86
+    13700004: F1
+    13700006: G
+    13700008: O
+    13700010: Plane147
+    13700012: R
+    13700014: T
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: a01
+        weight: 1
+      - path: a01/a02
+        weight: 1
+      - path: a01/a02/a03
+        weight: 1
+      - path: a01/a02/a03/a04
+        weight: 1
+      - path: a01/a02/a03/a04/a05
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01/Center02
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01/Center02/Center03
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01/Center02/Center03/D8
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1/E2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1/E2/E3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1/E2/E3/D1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01/F02
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01/F02/F03
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01/F02/F03/D
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3/G1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3/G1/G2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3/G1/G2/D4
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3/O1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3/O1/O2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3/O1/O2/D5
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3/R1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3/R1/R2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3/R1/R2/D6
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3/T1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3/T1/T2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3/T1/T2/D3
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/001xx66
+        weight: 1
+      - path: Group001/001xx66/001xx66 1
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/Box115
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/Cylinder86
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/F1
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/G
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/O
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/Plane147
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/R
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/T
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asd
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: a01
+        weight: 1
+      - path: a01/a02
+        weight: 1
+      - path: a01/a02/a03
+        weight: 1
+      - path: a01/a02/a03/a04
+        weight: 1
+      - path: a01/a02/a03/a04/a05
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01/Center02
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01/Center02/Center03
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/Center01/Center02/Center03/D8
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1/E2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1/E2/E3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/E1/E2/E3/D1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01/F02
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01/F02/F03
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/F01/F02/F03/D
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3/G1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3/G1/G2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/G3/G1/G2/D4
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3/O1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3/O1/O2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/O3/O1/O2/D5
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3/R1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3/R1/R2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/R3/R1/R2/D6
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3/T1
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3/T1/T2
+        weight: 1
+      - path: a01/a02/a03/a04/a05/a06/a07/a08/a09/a10/ALL/T3/T1/T2/D3
+        weight: 1
+      - path: Group001
+        weight: 1
+      - path: Group001/001xx66
+        weight: 1
+      - path: Group001/001xx66/001xx66 1
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/Box115
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/Cylinder86
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/F1
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/G
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/O
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/Plane147
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/R
+        weight: 1
+      - path: Group001/001xx66/001xx66 1/T
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

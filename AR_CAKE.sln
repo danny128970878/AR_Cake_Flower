@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_CAKE", "AR_CAKE.csproj", "{6A3CCF78-8CD6-1FD6-BCBC-0FAF5CA0D647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR_CAKE.Editor", "AR_CAKE.Editor.csproj", "{9E05F059-0D91-591A-D6DB-E6300C5B68A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3CCF78-8CD6-1FD6-BCBC-0FAF5CA0D647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3CCF78-8CD6-1FD6-BCBC-0FAF5CA0D647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3CCF78-8CD6-1FD6-BCBC-0FAF5CA0D647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3CCF78-8CD6-1FD6-BCBC-0FAF5CA0D647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E05F059-0D91-591A-D6DB-E6300C5B68A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E05F059-0D91-591A-D6DB-E6300C5B68A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E05F059-0D91-591A-D6DB-E6300C5B68A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E05F059-0D91-591A-D6DB-E6300C5B68A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

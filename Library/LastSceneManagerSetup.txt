@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/cake.unity
+  isLoaded: 1
+  isActive: 1

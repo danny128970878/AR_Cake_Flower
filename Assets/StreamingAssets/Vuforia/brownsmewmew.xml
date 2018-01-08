@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pict" size="5.000000 7.063758" />
+    <ImageTarget name="leaves_5star_bg" size="1.000000 1.000000" />
+    <ImageTarget name="AFIDigital3D2016reel_arTest" size="1.000000 0.562500" />
+    <ImageTarget name="FIDigital3D2016reelarTest" size="5.000000 2.812500" />
+    <ImageTarget name="FIDigital3D2016_iv" size="5.000000 2.812500" />
+    <ImageTarget name="36884" size="1.000000 1.000000" />
+    <ImageTarget name="55958PICs6z" size="1.000000 1.327586" />
+  </Tracking>
+</QCARConfig>
